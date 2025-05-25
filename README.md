@@ -37,5 +37,5 @@
 ---
 
 # Contact Information
-If you have any questions or are interested in a collaboration, feel free to email me.
-$\color{blue}{\text{Email:}}$ seyedhamidreza.mousavi@mdu.se
+If you have any questions or are interested in a collaboration, feel free to email us.
+$\color{blue}{\text{Email:}}$ seyedhamidreza.mousavi@mdu.se and mohammad.ahmadilivani@taltech.ee

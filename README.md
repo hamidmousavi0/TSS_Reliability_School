@@ -8,4 +8,30 @@
 - **Hands on coding**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamidmousavi0/TSS_Reliability_School/blob/main/Reliability.ipynb)
 
 
+---
+
+# People
+
+<table style="width:100%">
+    <tr>
+        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/MDU.png?raw=true" width="150" height="150"></td>
+        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/deepHero.png?raw=true" width="150" height="150"></td>
+        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/taltech.jpeg?raw=true" width="150" height="150"></td>
+    </tr>
+</table>
+
+###### $\color{blue}{\text{Masoud Daneshtalab:}}$ Professor at Mälardalen University and TalTech
+######  $\color{blue}{\text{Seyedhamidreza Mousavi:}}$ PhD student at Malardalan University
+######  $\color{blue}{\text{Mohammad Hassan Ahmadilivani (Mojtaba):}}$ Postdoctoral researcher at TalTech University
+
+<table style="width:100%">
+    <tr>
+        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/masoud.jpeg?raw=true" width="100" height="100"></td>
+        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/hamid.jpeg?raw=true" width="100" height="100"></td>
+        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/mojtaba.jpeg?raw=true" width="117" height="100"></td>
+    </tr>
+</table>
+
+######  $\color{blue}{\text{Email:}}$ masoud.daneshtalab@mdu.se, seyedhamidreza.mousavi@mdu.se, mohammad.ahmadilivani@taltech.ee
+
 

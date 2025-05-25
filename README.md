@@ -4,8 +4,8 @@
 
 - **Section III**: **Reliable-ReLU-Toolbox (RReLU) and Progressive Adversarial Robustness Distillation (PROARD)** 
 
-- **Slides**: <a href="https://hamidmousavi0.github.io/TSS_Reliability_School/Reliability.slides.html#/" target="_blank">Click here to open presentation file</a>
-- **Hands on coding**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamidmousavi0/TSS_Reliability_School/blob/main/Reliability.ipynb)
+    - **Slides**: <a href="https://hamidmousavi0.github.io/TSS_Reliability_School/Reliability.slides.html#/" target="_blank">Click here to open presentation file</a>
+    - **Hands on coding**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamidmousavi0/TSS_Reliability_School/blob/main/Reliability.ipynb)
 
 
 ---

@@ -34,4 +34,8 @@
 
 ######  $\color{blue}{\text{Email:}}$ masoud.daneshtalab@mdu.se, seyedhamidreza.mousavi@mdu.se, mohammad.ahmadilivani@taltech.ee
 
+---
 
+# Contact Information
+If you have any questions or are interested in a collaboration, feel free to email me.
+$\color{blue}{\text{Email:}}$ seyedhamidreza.mousavi@mdu.se

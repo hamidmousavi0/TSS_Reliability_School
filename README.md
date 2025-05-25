@@ -14,9 +14,9 @@
 
 <table style="width:100%">
     <tr>
-        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/MDU.png?raw=true" width="150" height="150"></td>
-        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/deepHero.png?raw=true" width="150" height="150"></td>
-        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/taltech.jpeg?raw=true" width="150" height="150"></td>
+        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/MDU.png?raw=true" width="200" height="200"></td>
+        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/deepHero.png?raw=true" width="200" height="200"></td>
+        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/taltech.jpeg?raw=true" width="200" height="200"></td>
     </tr>
 </table>
 

@@ -26,9 +26,9 @@
 
 <table style="width:100%">
     <tr>
-        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/masoud.jpeg?raw=true" width="150" height="150"></td>
-        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/hamid.jpeg?raw=true" width="150" height="150"></td>
-        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/mojtaba.jpeg?raw=true" width="170" height="150"></td>
+        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/masoud.jpeg?raw=true" width="150" height="200"></td>
+        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/hamid.jpeg?raw=true" width="150" height="200"></td>
+        <td><img src="https://github.com/hamidmousavi0/TSS_Reliability_School/blob/main/Figs/mojtaba.jpeg?raw=true" width="170" height="200"></td>
     </tr>
 </table>
 
